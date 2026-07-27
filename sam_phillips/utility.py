@@ -8,3 +8,4 @@ class ProfileConfig:
     linkedin_profile:str ='https://www.linkedin.com/in/samuel-phillips-dev'
     resume_location:str = f"{Path(__file__).resolve().parent}/assets/file/samuel_phillips_resume.docx"
     resume_file_name:str = "samuel_phillips_resume.docx"
+    gcp_certification_url:str = "https://www.credly.com/badges/4a96d66e-1411-498c-99c0-05b189633fe1/public_url"
